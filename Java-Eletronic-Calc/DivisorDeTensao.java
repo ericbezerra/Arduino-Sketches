@@ -23,4 +23,8 @@ public class DivisorDeTensao{
 
 		return tensao*r2/(r1+r2);
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 598ce28c2b85685ddf4874176a1a443e59d0b1e5
