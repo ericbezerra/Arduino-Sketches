@@ -1,10 +1,11 @@
 //SOS
 
-int sinal = 12;//sinal de socorro
+int sinal = 13;//sinal de socorro
 int pausaS = 166;
 int pausaO = 500;
 
 void SOS();
+
 void setup(){
   pinMode(sinal, OUTPUT);
 }
